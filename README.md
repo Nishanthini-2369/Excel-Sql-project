@@ -1,2 +1,7 @@
-# Excel-Sql-project
-I developed a comprehensive project in Excel, Sql creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+#🍕 Pizza Sales Dashboard Project (SQL + Excel)
+#Project Objective
+The goal of this project is to study pizza sales data using SQL and Excel. It helps to:
+     1)Find out when people buy the most pizzas
+     2)See which pizza sizes and categories are most popular
+     3)Find the best and worst-selling pizzas
+     4)Give useful ideas to help improve sales and customer experience
